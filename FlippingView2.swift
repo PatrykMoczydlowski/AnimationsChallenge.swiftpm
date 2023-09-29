@@ -7,7 +7,7 @@ struct FlippingView2: View {
     var body: some View {
         Button(action: {
             //MARK: Stretch #1 - Part II
-            
+            Text("GOLF!")
             
             
             
